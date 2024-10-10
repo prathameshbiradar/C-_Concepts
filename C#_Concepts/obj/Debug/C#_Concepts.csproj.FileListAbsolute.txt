@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\C#_Concepts\C#_Concepts\bin\Debug\C#_Concepts.exe.config
+C:\Users\hp\source\repos\C#_Concepts\C#_Concepts\bin\Debug\C#_Concepts.exe
+C:\Users\hp\source\repos\C#_Concepts\C#_Concepts\bin\Debug\C#_Concepts.pdb
+C:\Users\hp\source\repos\C#_Concepts\C#_Concepts\obj\Debug\C#_Concepts.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\C#_Concepts\C#_Concepts\obj\Debug\C#_Concepts.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\C#_Concepts\C#_Concepts\obj\Debug\C#_Concepts.exe
+C:\Users\hp\source\repos\C#_Concepts\C#_Concepts\obj\Debug\C#_Concepts.pdb

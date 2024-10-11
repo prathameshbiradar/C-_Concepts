@@ -48,6 +48,7 @@
     <Compile Include="Compile_time_poly.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Runtime_poly.cs" />
+    <Compile Include="Sealed_keyword.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

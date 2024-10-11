@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\C#_Concepts\Abstaction\bin\Debug\Abstaction.exe.config
+C:\Users\hp\source\repos\C#_Concepts\Abstaction\bin\Debug\Abstaction.exe
+C:\Users\hp\source\repos\C#_Concepts\Abstaction\bin\Debug\Abstaction.pdb
+C:\Users\hp\source\repos\C#_Concepts\Abstaction\obj\Debug\Abstaction.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\C#_Concepts\Abstaction\obj\Debug\Abstaction.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\C#_Concepts\Abstaction\obj\Debug\Abstaction.exe
+C:\Users\hp\source\repos\C#_Concepts\Abstaction\obj\Debug\Abstaction.pdb
